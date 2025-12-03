@@ -5,7 +5,7 @@ A comprehensive data visualization dashboard for analyzing Uber ride-sharing bus
 ## 🎬 Project Showcase
 
 <p align="center">
-  <img src="Project%20Showcase/Dasboard.gif" alt="Dashboard Demo" width="600">
+  <img src="Dasboard.gif" alt="Dashboard Demo" width="600">
 </p>
 
 <div align="center">
